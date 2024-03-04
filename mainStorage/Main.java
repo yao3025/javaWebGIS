@@ -8,5 +8,4 @@ public class Main {
         Animal Dog=new Animal(7);
         Dog.sayAge();;
     }
-    
 }
